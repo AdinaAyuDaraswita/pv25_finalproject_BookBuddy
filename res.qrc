@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="images">
+    <file>book_logo.png</file>
+    <file>perpustakaan.jpeg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>delete.png</file>
+    <file>edit.png</file>
+    <file>search.png</file>
+    <file>Book_icon.png</file>
+    <file>arrow_down2.png</file>
+    <file>calender.png</file>
+    <file>arrow_up.png</file>
+    <file>arrow_down.png</file>
+    <file>arrow_down1.png</file>
+  </qresource>
+</RCC>
